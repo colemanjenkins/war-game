@@ -3,5 +3,7 @@
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  
+
 }
+
+@import '../node_modules/antd/dist/antd.css'; 
